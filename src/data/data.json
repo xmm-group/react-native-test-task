@@ -1,0 +1,1121 @@
+{
+  "success": true,
+  "metadata": {
+      "labels_model": "roft.to.task-order.response-models.roft-task-order-orders-services-public-response-model"
+  },
+  "data": {
+      "items": [
+          {
+              "id": 13314011,
+              "order_id": null,
+              "resale_service_option_id": 120,
+              "resale_service_option_title": "Лайки без списаний, весь мир, быстрая скорость",
+              "resale_service_option_desc": "Мгновенный запуск.\r\nСкорость накрутки: до 5000 в сутки.\r\nРеальные пользователи.\r\nВысокое качество - аватарка, минимум 12 публикаций с человеком.\r\nБез списаний.\r\nВместе с лайками прибавляются показы и охват публикации.\r\n\r\nПрофиль должен быть открыт.",
+              "resale_service_option_quality": 9,
+              "resale_service_option_quality_desc": "Высокое",
+              "platform_id": 1,
+              "platform_name": "Инстаграм",
+              "link": "",
+              "required_amount": 100,
+              "current_amount": 100,
+              "progress_percent": 100,
+              "in_charge": "10.000000",
+              "currency_code": "RUB",
+              "refund": "0.000000",
+              "start_count": 8,
+              "answer_to_questions": null,
+              "rejection_reason_code": null,
+              "rejection_reason_desc": null,
+              "status": 3,
+              "metadata": {
+                  "img": "",
+                  "name": "",
+                  "platform": "instagram",
+                  "soc_object_type": 2
+              },
+              "params": [
+                  {
+                      "id": 13,
+                      "group_id": 1,
+                      "group_name": "Выполнение",
+                      "name": "Запуск, мин.",
+                      "value": "15",
+                      "sort": 1
+                  },
+                  {
+                      "id": 1,
+                      "group_id": 1,
+                      "group_name": "Выполнение",
+                      "name": "Скорость накрутки, выполнений в час",
+                      "value": "502",
+                      "sort": 2
+                  },
+                  {
+                      "id": 2,
+                      "group_id": 1,
+                      "group_name": "Выполнение",
+                      "name": "Списания",
+                      "value": "6%",
+                      "sort": 3
+                  },
+                  {
+                      "id": 14,
+                      "group_id": 1,
+                      "group_name": "Выполнение",
+                      "name": "Отмена задания",
+                      "value": "Возможна",
+                      "sort": 7
+                  },
+                  {
+                      "id": 6,
+                      "group_id": 1,
+                      "group_name": "Выполнение",
+                      "name": "Накрутка закрытых профилей",
+                      "value": "Невозможна",
+                      "sort": 8
+                  },
+                  {
+                      "id": 8,
+                      "group_id": 2,
+                      "group_name": "Исполнители",
+                      "name": "Тип исполнителей",
+                      "value": "Люди, боты",
+                      "sort": 1
+                  },
+                  {
+                      "id": 9,
+                      "group_id": 2,
+                      "group_name": "Исполнители",
+                      "name": "Качество аккаунов",
+                      "value": "5/5, высокое",
+                      "sort": 2
+                  },
+                  {
+                      "id": 10,
+                      "group_id": 2,
+                      "group_name": "Исполнители",
+                      "name": "Аватар",
+                      "value": "Есть",
+                      "sort": 3
+                  },
+                  {
+                      "id": 11,
+                      "group_id": 2,
+                      "group_name": "Исполнители",
+                      "name": "Кол. публикаций с человеком",
+                      "value": "от 12",
+                      "sort": 4
+                  },
+                  {
+                      "id": 12,
+                      "group_id": 2,
+                      "group_name": "Исполнители",
+                      "name": "ГЕО",
+                      "value": "Весь мир",
+                      "sort": 5
+                  }
+              ],
+              "created_at": "2023-05-08 15:51:19"
+          },
+          {
+              "id": 13314012,
+              "order_id": null,
+              "resale_service_option_id": 187,
+              "resale_service_option_title": "Заданные (свои) Комментарии весь мир, умеренная скорость",
+              "resale_service_option_desc": "Мгновенный запуск.\nМожно задавать свой список комментариев\nСкорость накрутки: до 100 в сутки.\nРеальные пользователи.\nВысокое качество - аватарка, минимум 12 публикаций с человеком.\n\nПрофиль должен быть открыт.",
+              "resale_service_option_quality": 8,
+              "resale_service_option_quality_desc": "Хорошее",
+              "platform_id": 1,
+              "platform_name": "Инстаграм",
+              "link": "https://instagram.com",
+              "required_amount": 100,
+              "current_amount": 100,
+              "progress_percent": 100,
+              "in_charge": "25.000000",
+              "currency_code": "RUB",
+              "refund": "0.000000",
+              "start_count": 0,
+              "answer_to_questions": null,
+              "rejection_reason_code": null,
+              "rejection_reason_desc": null,
+              "status": 3,
+              "metadata": {
+                  "img": "",
+                  "name": "",
+                  "platform": "instagram",
+                  "soc_object_type": 2
+              },
+              "params": [
+                  {
+                      "id": 13,
+                      "group_id": 1,
+                      "group_name": "Выполнение",
+                      "name": "Запуск, мин.",
+                      "value": "16",
+                      "sort": 1
+                  },
+                  {
+                      "id": 1,
+                      "group_id": 1,
+                      "group_name": "Выполнение",
+                      "name": "Скорость накрутки, выполнений в час",
+                      "value": "333",
+                      "sort": 2
+                  },
+                  {
+                      "id": 2,
+                      "group_id": 1,
+                      "group_name": "Выполнение",
+                      "name": "Списания",
+                      "value": "9%",
+                      "sort": 3
+                  },
+                  {
+                      "id": 14,
+                      "group_id": 1,
+                      "group_name": "Выполнение",
+                      "name": "Отмена задания",
+                      "value": "Возможна",
+                      "sort": 7
+                  },
+                  {
+                      "id": 6,
+                      "group_id": 1,
+                      "group_name": "Выполнение",
+                      "name": "Накрутка закрытых профилей",
+                      "value": "Невозможна",
+                      "sort": 8
+                  },
+                  {
+                      "id": 8,
+                      "group_id": 2,
+                      "group_name": "Исполнители",
+                      "name": "Тип исполнителей",
+                      "value": "Люди, боты",
+                      "sort": 1
+                  },
+                  {
+                      "id": 9,
+                      "group_id": 2,
+                      "group_name": "Исполнители",
+                      "name": "Качество аккаунов",
+                      "value": "5/5, высокое",
+                      "sort": 2
+                  },
+                  {
+                      "id": 10,
+                      "group_id": 2,
+                      "group_name": "Исполнители",
+                      "name": "Аватар",
+                      "value": "Есть",
+                      "sort": 3
+                  },
+                  {
+                      "id": 11,
+                      "group_id": 2,
+                      "group_name": "Исполнители",
+                      "name": "Кол. публикаций с человеком",
+                      "value": "от 12",
+                      "sort": 4
+                  },
+                  {
+                      "id": 12,
+                      "group_id": 2,
+                      "group_name": "Исполнители",
+                      "name": "ГЕО",
+                      "value": "Весь мир",
+                      "sort": 5
+                  }
+              ],
+              "created_at": "2023-05-08 15:51:19"
+          },
+          {
+              "id": 11957139,
+              "order_id": null,
+              "resale_service_option_id": 163,
+              "resale_service_option_title": "Подписчики офферы, русские, средняя скорость",
+              "resale_service_option_desc": "Мгновенный запуск.\nСкорость накрутки: до 1000 в сутки.\nРеальные пользователи.\nВысокое качество - аватарка, минимум 12 публикаций с человеком.\nБез отписок.\nВместе с подписками увеличиваются посещения профиля.\n\nПрофиль должен быть открыт.",
+              "resale_service_option_quality": 7,
+              "resale_service_option_quality_desc": "Хорошее",
+              "platform_id": 1,
+              "platform_name": "Инстаграм",
+              "link": "https://instagram.com",
+              "required_amount": 202,
+              "current_amount": 202,
+              "progress_percent": 100,
+              "in_charge": "46.460000",
+              "currency_code": "RUB",
+              "refund": "0.000000",
+              "start_count": 2481,
+              "answer_to_questions": null,
+              "rejection_reason_code": null,
+              "rejection_reason_desc": null,
+              "status": 3,
+              "metadata": {
+                  "img": "",
+                  "name": "",
+                  "platform": "instagram",
+                  "soc_object_type": 1
+              },
+              "params": [
+                  {
+                      "id": 13,
+                      "group_id": 1,
+                      "group_name": "Выполнение",
+                      "name": "Запуск, мин.",
+                      "value": "15",
+                      "sort": 1
+                  },
+                  {
+                      "id": 1,
+                      "group_id": 1,
+                      "group_name": "Выполнение",
+                      "name": "Скорость накрутки, выполнений в час",
+                      "value": "355",
+                      "sort": 2
+                  },
+                  {
+                      "id": 2,
+                      "group_id": 1,
+                      "group_name": "Выполнение",
+                      "name": "Списания",
+                      "value": "8%",
+                      "sort": 3
+                  },
+                  {
+                      "id": 14,
+                      "group_id": 1,
+                      "group_name": "Выполнение",
+                      "name": "Отмена задания",
+                      "value": "Возможна",
+                      "sort": 7
+                  },
+                  {
+                      "id": 6,
+                      "group_id": 1,
+                      "group_name": "Выполнение",
+                      "name": "Накрутка закрытых профилей",
+                      "value": "Невозможна",
+                      "sort": 8
+                  },
+                  {
+                      "id": 8,
+                      "group_id": 2,
+                      "group_name": "Исполнители",
+                      "name": "Тип исполнителей",
+                      "value": "Люди, боты",
+                      "sort": 1
+                  },
+                  {
+                      "id": 9,
+                      "group_id": 2,
+                      "group_name": "Исполнители",
+                      "name": "Качество аккаунов",
+                      "value": "5/5, высокое",
+                      "sort": 2
+                  },
+                  {
+                      "id": 10,
+                      "group_id": 2,
+                      "group_name": "Исполнители",
+                      "name": "Аватар",
+                      "value": "Есть",
+                      "sort": 3
+                  },
+                  {
+                      "id": 11,
+                      "group_id": 2,
+                      "group_name": "Исполнители",
+                      "name": "Кол. публикаций с человеком",
+                      "value": "от 12",
+                      "sort": 4
+                  },
+                  {
+                      "id": 12,
+                      "group_id": 2,
+                      "group_name": "Исполнители",
+                      "name": "ГЕО",
+                      "value": "Весь мир",
+                      "sort": 5
+                  }
+              ],
+              "created_at": "2023-03-29 06:05:07"
+          },
+          {
+              "id": 11729493,
+              "order_id": null,
+              "resale_service_option_id": 121,
+              "resale_service_option_title": "Подписчики без списаний, весь мир, быстрая скорость, с запасом 10%",
+              "resale_service_option_desc": "Мгновенный запуск.\r\nСкорость накрутки: до 5000 в сутки.\r\nРеальные пользователи.\r\nВысокое качество - аватарка, минимум 12 публикаций с человеком.\r\nБез отписок.\r\nВместе с подписками увеличиваются посещения профиля.\r\n\r\nПрофиль должен быть открыт.",
+              "resale_service_option_quality": 9,
+              "resale_service_option_quality_desc": "Высокое",
+              "platform_id": 1,
+              "platform_name": "Инстаграм",
+              "link": "https://instagram.com",
+              "required_amount": 100,
+              "current_amount": 100,
+              "progress_percent": 100,
+              "in_charge": "19.000000",
+              "currency_code": "RUB",
+              "refund": "0.000000",
+              "start_count": 2347,
+              "answer_to_questions": null,
+              "rejection_reason_code": null,
+              "rejection_reason_desc": null,
+              "status": 3,
+              "metadata": {
+                  "img": "",
+                  "name": "",
+                  "platform": "instagram",
+                  "soc_object_type": 1
+              },
+              "params": [
+                  {
+                      "id": 13,
+                      "group_id": 1,
+                      "group_name": "Выполнение",
+                      "name": "Запуск, мин.",
+                      "value": "13",
+                      "sort": 1
+                  },
+                  {
+                      "id": 1,
+                      "group_id": 1,
+                      "group_name": "Выполнение",
+                      "name": "Скорость накрутки, выполнений в час",
+                      "value": "460",
+                      "sort": 2
+                  },
+                  {
+                      "id": 2,
+                      "group_id": 1,
+                      "group_name": "Выполнение",
+                      "name": "Списания",
+                      "value": "3% - 7%",
+                      "sort": 3
+                  },
+                  {
+                      "id": 14,
+                      "group_id": 1,
+                      "group_name": "Выполнение",
+                      "name": "Отмена задания",
+                      "value": "Возможна",
+                      "sort": 7
+                  },
+                  {
+                      "id": 6,
+                      "group_id": 1,
+                      "group_name": "Выполнение",
+                      "name": "Накрутка закрытых профилей",
+                      "value": "Невозможна",
+                      "sort": 8
+                  },
+                  {
+                      "id": 8,
+                      "group_id": 2,
+                      "group_name": "Исполнители",
+                      "name": "Тип исполнителей",
+                      "value": "Люди, боты",
+                      "sort": 1
+                  },
+                  {
+                      "id": 9,
+                      "group_id": 2,
+                      "group_name": "Исполнители",
+                      "name": "Качество аккаунов",
+                      "value": "5/5, высокое",
+                      "sort": 2
+                  },
+                  {
+                      "id": 10,
+                      "group_id": 2,
+                      "group_name": "Исполнители",
+                      "name": "Аватар",
+                      "value": "Есть",
+                      "sort": 3
+                  },
+                  {
+                      "id": 11,
+                      "group_id": 2,
+                      "group_name": "Исполнители",
+                      "name": "Кол. публикаций с человеком",
+                      "value": "от 12",
+                      "sort": 4
+                  },
+                  {
+                      "id": 12,
+                      "group_id": 2,
+                      "group_name": "Исполнители",
+                      "name": "ГЕО",
+                      "value": "Весь мир",
+                      "sort": 5
+                  }
+              ],
+              "created_at": "2023-03-20 15:20:18"
+          },
+          {
+              "id": 11729444,
+              "order_id": null,
+              "resale_service_option_id": 121,
+              "resale_service_option_title": "Подписчики без списаний, весь мир, быстрая скорость, с запасом 10%",
+              "resale_service_option_desc": "Мгновенный запуск.\r\nСкорость накрутки: до 5000 в сутки.\r\nРеальные пользователи.\r\nВысокое качество - аватарка, минимум 12 публикаций с человеком.\r\nБез отписок.\r\nВместе с подписками увеличиваются посещения профиля.\r\n\r\nПрофиль должен быть открыт.",
+              "resale_service_option_quality": 9,
+              "resale_service_option_quality_desc": "Высокое",
+              "platform_id": 1,
+              "platform_name": "Инстаграм",
+              "link": "https://instagram.com",
+              "required_amount": 50,
+              "current_amount": 50,
+              "progress_percent": 100,
+              "in_charge": "9.500000",
+              "currency_code": "RUB",
+              "refund": "0.000000",
+              "start_count": 2301,
+              "answer_to_questions": null,
+              "rejection_reason_code": null,
+              "rejection_reason_desc": null,
+              "status": 3,
+              "metadata": {
+                  "img": "",
+                  "name": "",
+                  "platform": "instagram",
+                  "soc_object_type": 1
+              },
+              "params": [
+                  {
+                      "id": 13,
+                      "group_id": 1,
+                      "group_name": "Выполнение",
+                      "name": "Запуск, мин.",
+                      "value": "13",
+                      "sort": 1
+                  },
+                  {
+                      "id": 1,
+                      "group_id": 1,
+                      "group_name": "Выполнение",
+                      "name": "Скорость накрутки, выполнений в час",
+                      "value": "460",
+                      "sort": 2
+                  },
+                  {
+                      "id": 2,
+                      "group_id": 1,
+                      "group_name": "Выполнение",
+                      "name": "Списания",
+                      "value": "3% - 7%",
+                      "sort": 3
+                  },
+                  {
+                      "id": 14,
+                      "group_id": 1,
+                      "group_name": "Выполнение",
+                      "name": "Отмена задания",
+                      "value": "Возможна",
+                      "sort": 7
+                  },
+                  {
+                      "id": 6,
+                      "group_id": 1,
+                      "group_name": "Выполнение",
+                      "name": "Накрутка закрытых профилей",
+                      "value": "Невозможна",
+                      "sort": 8
+                  },
+                  {
+                      "id": 8,
+                      "group_id": 2,
+                      "group_name": "Исполнители",
+                      "name": "Тип исполнителей",
+                      "value": "Люди, боты",
+                      "sort": 1
+                  },
+                  {
+                      "id": 9,
+                      "group_id": 2,
+                      "group_name": "Исполнители",
+                      "name": "Качество аккаунов",
+                      "value": "5/5, высокое",
+                      "sort": 2
+                  },
+                  {
+                      "id": 10,
+                      "group_id": 2,
+                      "group_name": "Исполнители",
+                      "name": "Аватар",
+                      "value": "Есть",
+                      "sort": 3
+                  },
+                  {
+                      "id": 11,
+                      "group_id": 2,
+                      "group_name": "Исполнители",
+                      "name": "Кол. публикаций с человеком",
+                      "value": "от 12",
+                      "sort": 4
+                  },
+                  {
+                      "id": 12,
+                      "group_id": 2,
+                      "group_name": "Исполнители",
+                      "name": "ГЕО",
+                      "value": "Весь мир",
+                      "sort": 5
+                  }
+              ],
+              "created_at": "2023-03-20 15:18:30"
+          },
+          {
+              "id": 11729412,
+              "order_id": null,
+              "resale_service_option_id": 24,
+              "resale_service_option_title": "Посещения профиля с охватом",
+              "resale_service_option_desc": "- Скорость: 50 в день;\n- Увеличение показателя \"посещения профиля\" от реальных пользователей из России. Показатель обновляется на следующий день;\n- Статистика обновляется спустя сутки. Могут быть засчитаны не все переходы;\n- Не заказывать повторно в течен",
+              "resale_service_option_quality": 10,
+              "resale_service_option_quality_desc": "Высокое",
+              "platform_id": 1,
+              "platform_name": "Инстаграм",
+              "link": "https://instagram.com",
+              "required_amount": 109,
+              "current_amount": 109,
+              "progress_percent": 100,
+              "in_charge": "16.350000",
+              "currency_code": "RUB",
+              "refund": "0.000000",
+              "start_count": 2301,
+              "answer_to_questions": null,
+              "rejection_reason_code": null,
+              "rejection_reason_desc": null,
+              "status": 3,
+              "metadata": {
+                  "img": "",
+                  "name": "",
+                  "platform": "instagram",
+                  "soc_object_type": 1
+              },
+              "params": [
+                  {
+                      "id": 13,
+                      "group_id": 1,
+                      "group_name": "Выполнение",
+                      "name": "Запуск, мин.",
+                      "value": "75",
+                      "sort": 1
+                  },
+                  {
+                      "id": 2,
+                      "group_id": 1,
+                      "group_name": "Выполнение",
+                      "name": "Списания",
+                      "value": "1% - 7%",
+                      "sort": 3
+                  },
+                  {
+                      "id": 14,
+                      "group_id": 1,
+                      "group_name": "Выполнение",
+                      "name": "Отмена задания",
+                      "value": "Возможна",
+                      "sort": 7
+                  },
+                  {
+                      "id": 6,
+                      "group_id": 1,
+                      "group_name": "Выполнение",
+                      "name": "Накрутка закрытых профилей",
+                      "value": "Невозможна",
+                      "sort": 8
+                  },
+                  {
+                      "id": 8,
+                      "group_id": 2,
+                      "group_name": "Исполнители",
+                      "name": "Тип исполнителей",
+                      "value": "Люди, боты",
+                      "sort": 1
+                  },
+                  {
+                      "id": 9,
+                      "group_id": 2,
+                      "group_name": "Исполнители",
+                      "name": "Качество аккаунов",
+                      "value": "5/5, высокое",
+                      "sort": 2
+                  },
+                  {
+                      "id": 10,
+                      "group_id": 2,
+                      "group_name": "Исполнители",
+                      "name": "Аватар",
+                      "value": "Есть",
+                      "sort": 3
+                  },
+                  {
+                      "id": 11,
+                      "group_id": 2,
+                      "group_name": "Исполнители",
+                      "name": "Кол. публикаций с человеком",
+                      "value": "от 12",
+                      "sort": 4
+                  },
+                  {
+                      "id": 12,
+                      "group_id": 2,
+                      "group_name": "Исполнители",
+                      "name": "ГЕО",
+                      "value": "Весь мир",
+                      "sort": 5
+                  }
+              ],
+              "created_at": "2023-03-20 15:16:19"
+          },
+          {
+              "id": 11589356,
+              "order_id": null,
+              "resale_service_option_id": 161,
+              "resale_service_option_title": "Подписчики, русские, средняя скорость",
+              "resale_service_option_desc": "Мгновенный запуск.\nСкорость накрутки: до 1000 в сутки.\nРеальные пользователи из России и стран СНГ.\nВысокое качество - аватарка, минимум 12 публикаций с человеком.\n\nПрофиль должен быть открыт.",
+              "resale_service_option_quality": 9,
+              "resale_service_option_quality_desc": "Высокое",
+              "platform_id": 3,
+              "platform_name": "Вконтакте",
+              "link": "http://vk.com",
+              "required_amount": 30,
+              "current_amount": 0,
+              "progress_percent": 0,
+              "in_charge": "9.600000",
+              "currency_code": "RUB",
+              "refund": "9.600000",
+              "start_count": null,
+              "answer_to_questions": null,
+              "rejection_reason_code": 1002,
+              "rejection_reason_desc": "Ошибка при проверке. Проверьте возможные причины и попробуйте еще раз: ошибка в ссылке, ссылка доступна только вам, не удалось получить данные из социальной сети",
+              "status": 5,
+              "metadata": {
+                  "img": "",
+                  "name": "",
+                  "platform": "vk",
+                  "soc_object_type": 1
+              },
+              "params": [
+                  {
+                      "id": 13,
+                      "group_id": 1,
+                      "group_name": "Выполнение",
+                      "name": "Запуск, мин.",
+                      "value": "16",
+                      "sort": 1
+                  },
+                  {
+                      "id": 1,
+                      "group_id": 1,
+                      "group_name": "Выполнение",
+                      "name": "Скорость накрутки, выполнений в час",
+                      "value": "249",
+                      "sort": 2
+                  },
+                  {
+                      "id": 2,
+                      "group_id": 1,
+                      "group_name": "Выполнение",
+                      "name": "Списания",
+                      "value": "1% - 7%",
+                      "sort": 3
+                  },
+                  {
+                      "id": 14,
+                      "group_id": 1,
+                      "group_name": "Выполнение",
+                      "name": "Отмена задания",
+                      "value": "Возможна",
+                      "sort": 7
+                  },
+                  {
+                      "id": 6,
+                      "group_id": 1,
+                      "group_name": "Выполнение",
+                      "name": "Накрутка закрытых профилей",
+                      "value": "Невозможна",
+                      "sort": 8
+                  },
+                  {
+                      "id": 8,
+                      "group_id": 2,
+                      "group_name": "Исполнители",
+                      "name": "Тип исполнителей",
+                      "value": "Люди, боты",
+                      "sort": 1
+                  },
+                  {
+                      "id": 9,
+                      "group_id": 2,
+                      "group_name": "Исполнители",
+                      "name": "Качество аккаунов",
+                      "value": "5/5, высокое",
+                      "sort": 2
+                  },
+                  {
+                      "id": 10,
+                      "group_id": 2,
+                      "group_name": "Исполнители",
+                      "name": "Аватар",
+                      "value": "Есть",
+                      "sort": 3
+                  },
+                  {
+                      "id": 11,
+                      "group_id": 2,
+                      "group_name": "Исполнители",
+                      "name": "Кол. публикаций с человеком",
+                      "value": "от 12",
+                      "sort": 4
+                  },
+                  {
+                      "id": 12,
+                      "group_id": 2,
+                      "group_name": "Исполнители",
+                      "name": "ГЕО",
+                      "value": "Весь мир",
+                      "sort": 5
+                  }
+              ],
+              "created_at": "2023-03-14 14:56:20"
+          },
+          {
+              "id": 11584508,
+              "order_id": null,
+              "resale_service_option_id": 161,
+              "resale_service_option_title": "Подписчики, русские, средняя скорость",
+              "resale_service_option_desc": "Мгновенный запуск.\nСкорость накрутки: до 1000 в сутки.\nРеальные пользователи из России и стран СНГ.\nВысокое качество - аватарка, минимум 12 публикаций с человеком.\n\nПрофиль должен быть открыт.",
+              "resale_service_option_quality": 9,
+              "resale_service_option_quality_desc": "Высокое",
+              "platform_id": 3,
+              "platform_name": "Вконтакте",
+              "link": "http://vk.com",
+              "required_amount": 86,
+              "current_amount": 0,
+              "progress_percent": 0,
+              "in_charge": "27.520000",
+              "currency_code": "RUB",
+              "refund": "27.520000",
+              "start_count": null,
+              "answer_to_questions": null,
+              "rejection_reason_code": 1002,
+              "rejection_reason_desc": "Ошибка при проверке. Проверьте возможные причины и попробуйте еще раз: ошибка в ссылке, ссылка доступна только вам, не удалось получить данные из социальной сети",
+              "status": 5,
+              "metadata": {
+                  "img": "",
+                  "name": "",
+                  "platform": "vk",
+                  "soc_object_type": 1
+              },
+              "params": [
+                  {
+                      "id": 13,
+                      "group_id": 1,
+                      "group_name": "Выполнение",
+                      "name": "Запуск, мин.",
+                      "value": "16",
+                      "sort": 1
+                  },
+                  {
+                      "id": 1,
+                      "group_id": 1,
+                      "group_name": "Выполнение",
+                      "name": "Скорость накрутки, выполнений в час",
+                      "value": "249",
+                      "sort": 2
+                  },
+                  {
+                      "id": 2,
+                      "group_id": 1,
+                      "group_name": "Выполнение",
+                      "name": "Списания",
+                      "value": "1% - 7%",
+                      "sort": 3
+                  },
+                  {
+                      "id": 14,
+                      "group_id": 1,
+                      "group_name": "Выполнение",
+                      "name": "Отмена задания",
+                      "value": "Возможна",
+                      "sort": 7
+                  },
+                  {
+                      "id": 6,
+                      "group_id": 1,
+                      "group_name": "Выполнение",
+                      "name": "Накрутка закрытых профилей",
+                      "value": "Невозможна",
+                      "sort": 8
+                  },
+                  {
+                      "id": 8,
+                      "group_id": 2,
+                      "group_name": "Исполнители",
+                      "name": "Тип исполнителей",
+                      "value": "Люди, боты",
+                      "sort": 1
+                  },
+                  {
+                      "id": 9,
+                      "group_id": 2,
+                      "group_name": "Исполнители",
+                      "name": "Качество аккаунов",
+                      "value": "5/5, высокое",
+                      "sort": 2
+                  },
+                  {
+                      "id": 10,
+                      "group_id": 2,
+                      "group_name": "Исполнители",
+                      "name": "Аватар",
+                      "value": "Есть",
+                      "sort": 3
+                  },
+                  {
+                      "id": 11,
+                      "group_id": 2,
+                      "group_name": "Исполнители",
+                      "name": "Кол. публикаций с человеком",
+                      "value": "от 12",
+                      "sort": 4
+                  },
+                  {
+                      "id": 12,
+                      "group_id": 2,
+                      "group_name": "Исполнители",
+                      "name": "ГЕО",
+                      "value": "Весь мир",
+                      "sort": 5
+                  }
+              ],
+              "created_at": "2023-03-14 11:19:42"
+          },
+          {
+              "id": 11582568,
+              "order_id": null,
+              "resale_service_option_id": 180,
+              "resale_service_option_title": "Русские подписчики без списаний",
+              "resale_service_option_desc": "Мгновенный запуск. \nСкорость накрутки: до ? в сутки. \nРеальные пользователи. \nВысокое качество - аватарка, минимум 12 публикаций с человеком. \nБез списаний.\nПрофиль должен быть открыт.",
+              "resale_service_option_quality": 10,
+              "resale_service_option_quality_desc": "Высокое",
+              "platform_id": 1,
+              "platform_name": "Инстаграм",
+              "link": "https://instagram.com",
+              "required_amount": 232,
+              "current_amount": 232,
+              "progress_percent": 100,
+              "in_charge": "41.760000",
+              "currency_code": "RUB",
+              "refund": "0.000000",
+              "start_count": 2059,
+              "answer_to_questions": null,
+              "rejection_reason_code": null,
+              "rejection_reason_desc": null,
+              "status": 3,
+              "metadata": null,
+              "params": [
+                  {
+                      "id": 13,
+                      "group_id": 1,
+                      "group_name": "Выполнение",
+                      "name": "Запуск, мин.",
+                      "value": "15",
+                      "sort": 1
+                  },
+                  {
+                      "id": 1,
+                      "group_id": 1,
+                      "group_name": "Выполнение",
+                      "name": "Скорость накрутки, выполнений в час",
+                      "value": "71",
+                      "sort": 2
+                  },
+                  {
+                      "id": 2,
+                      "group_id": 1,
+                      "group_name": "Выполнение",
+                      "name": "Списания",
+                      "value": "2%",
+                      "sort": 3
+                  },
+                  {
+                      "id": 14,
+                      "group_id": 1,
+                      "group_name": "Выполнение",
+                      "name": "Отмена задания",
+                      "value": "Возможна",
+                      "sort": 7
+                  },
+                  {
+                      "id": 6,
+                      "group_id": 1,
+                      "group_name": "Выполнение",
+                      "name": "Накрутка закрытых профилей",
+                      "value": "Невозможна",
+                      "sort": 8
+                  },
+                  {
+                      "id": 8,
+                      "group_id": 2,
+                      "group_name": "Исполнители",
+                      "name": "Тип исполнителей",
+                      "value": "Люди, боты",
+                      "sort": 1
+                  },
+                  {
+                      "id": 9,
+                      "group_id": 2,
+                      "group_name": "Исполнители",
+                      "name": "Качество аккаунов",
+                      "value": "5/5, высокое",
+                      "sort": 2
+                  },
+                  {
+                      "id": 10,
+                      "group_id": 2,
+                      "group_name": "Исполнители",
+                      "name": "Аватар",
+                      "value": "Есть",
+                      "sort": 3
+                  },
+                  {
+                      "id": 11,
+                      "group_id": 2,
+                      "group_name": "Исполнители",
+                      "name": "Кол. публикаций с человеком",
+                      "value": "от 12",
+                      "sort": 4
+                  },
+                  {
+                      "id": 12,
+                      "group_id": 2,
+                      "group_name": "Исполнители",
+                      "name": "ГЕО",
+                      "value": "Весь мир",
+                      "sort": 5
+                  }
+              ],
+              "created_at": "2023-03-14 10:29:07"
+          },
+          {
+              "id": 11582242,
+              "order_id": null,
+              "resale_service_option_id": 180,
+              "resale_service_option_title": "Русские подписчики без списаний",
+              "resale_service_option_desc": "Мгновенный запуск. \nСкорость накрутки: до ? в сутки. \nРеальные пользователи. \nВысокое качество - аватарка, минимум 12 публикаций с человеком. \nБез списаний.\nПрофиль должен быть открыт.",
+              "resale_service_option_quality": 10,
+              "resale_service_option_quality_desc": "Высокое",
+              "platform_id": 1,
+              "platform_name": "Инстаграм",
+              "link": "https://instagram.com",
+              "required_amount": 100,
+              "current_amount": 100,
+              "progress_percent": 100,
+              "in_charge": "18.000000",
+              "currency_code": "RUB",
+              "refund": "0.000000",
+              "start_count": 1981,
+              "answer_to_questions": null,
+              "rejection_reason_code": null,
+              "rejection_reason_desc": null,
+              "status": 3,
+              "metadata": null,
+              "params": [
+                  {
+                      "id": 13,
+                      "group_id": 1,
+                      "group_name": "Выполнение",
+                      "name": "Запуск, мин.",
+                      "value": "15",
+                      "sort": 1
+                  },
+                  {
+                      "id": 1,
+                      "group_id": 1,
+                      "group_name": "Выполнение",
+                      "name": "Скорость накрутки, выполнений в час",
+                      "value": "71",
+                      "sort": 2
+                  },
+                  {
+                      "id": 2,
+                      "group_id": 1,
+                      "group_name": "Выполнение",
+                      "name": "Списания",
+                      "value": "2%",
+                      "sort": 3
+                  },
+                  {
+                      "id": 14,
+                      "group_id": 1,
+                      "group_name": "Выполнение",
+                      "name": "Отмена задания",
+                      "value": "Возможна",
+                      "sort": 7
+                  },
+                  {
+                      "id": 6,
+                      "group_id": 1,
+                      "group_name": "Выполнение",
+                      "name": "Накрутка закрытых профилей",
+                      "value": "Невозможна",
+                      "sort": 8
+                  },
+                  {
+                      "id": 8,
+                      "group_id": 2,
+                      "group_name": "Исполнители",
+                      "name": "Тип исполнителей",
+                      "value": "Люди, боты",
+                      "sort": 1
+                  },
+                  {
+                      "id": 9,
+                      "group_id": 2,
+                      "group_name": "Исполнители",
+                      "name": "Качество аккаунов",
+                      "value": "5/5, высокое",
+                      "sort": 2
+                  },
+                  {
+                      "id": 10,
+                      "group_id": 2,
+                      "group_name": "Исполнители",
+                      "name": "Аватар",
+                      "value": "Есть",
+                      "sort": 3
+                  },
+                  {
+                      "id": 11,
+                      "group_id": 2,
+                      "group_name": "Исполнители",
+                      "name": "Кол. публикаций с человеком",
+                      "value": "от 12",
+                      "sort": 4
+                  },
+                  {
+                      "id": 12,
+                      "group_id": 2,
+                      "group_name": "Исполнители",
+                      "name": "ГЕО",
+                      "value": "Весь мир",
+                      "sort": 5
+                  }
+              ],
+              "created_at": "2023-03-14 10:13:52"
+          }
+      ],
+      "pagination": {
+          "totalCount": 11,
+          "pageCount": 2,
+          "currentPage": 1,
+          "perPage": 10,
+          "isCachedTotalCount": false
+      },
+      "total": null
+  },
+  "status": 200
+}
